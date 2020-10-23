@@ -1,0 +1,3 @@
+{
+  "run_list": [ "recipe[sc-mongodb]", "recipe[install-platform]" ]
+}
