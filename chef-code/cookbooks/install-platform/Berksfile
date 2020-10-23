@@ -1,4 +1,0 @@
-# -*- ruby -*-
-source 'https://supermarket.getchef.com'
-
-cookbook 'sc-mongodb', '~> 4.1.0'
